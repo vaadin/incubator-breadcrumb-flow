@@ -1,3 +1,7 @@
+# Deprecated 
+This repository has been deprecated. Please find the latest code here: 
+https://github.com/vaadin-component-factory/breadcrumb
+
 # Incubator Breadcrumb for Flow
 
 Incubator Breadcrumbs for Flow is server-side component of [incubator-breadcrumbs](https://github.com/vaadin/incubator-breadcrumb) web component for Vaadin 10. 
