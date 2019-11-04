@@ -24,7 +24,7 @@ breadcrumbs.add(
 Breadcrumbs "Home" and "Components" will be hidden when viewport is less then 420px  
 
 ## Demo
-To run demo go to `incubator-breadcrumbs-flow-vaadincom-demo/` subfolder and run `mbn jetty:run`.
+To run demo go to `incubator-breadcrumbs-flow-vaadincom-demo/` subfolder and run `mvn jetty:run`.
 After server startup, you'll be able find demo at [http://localhost:8080/breadcrumbs](http://localhost:8080/breadcrumbs)
 
 ## Setting up for development:
